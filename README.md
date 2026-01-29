@@ -1,47 +1,45 @@
 # Hi, I'm Jay-ar Gargaran 👋
 
-Full Stack Developer
-
 Full Stack Developer with years of professional experience building, shipping, and maintaining production web applications. Currently working remotely with an international agency, delivering end-to-end solutions across frontend, backend, integrations, deployment, and long-term maintenance.
 
 ---
 
-## 🚀 Core Skills
+## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-- React (17/18), Next.js, Vite
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, Shadcn UI, Material UI, Ant Design
-- Responsive UI, dashboards, admin panels
-- Redux Toolkit / RTK Query
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend**
+### Backend
 
-- Node.js, Express.js
-- REST APIs, WebSockets / Socket.io
-- Authentication (JWT, Supabase Auth, Firebase)
-- Async workflows, background jobs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Databases**
+### Database
 
-- PostgreSQL (schema design, complex queries)
-- MongoDB
-- Supabase (PostgreSQL-backed services)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-- Docker
-- AWS (S3, Lambda, API-based services)
-- Vercel, Render, DigitalOcean
-- CI/CD with GitHub Actions
-- Linux / Unix CLI
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Integrations**
-
-- Stripe, PayPal
-- Third-party APIs
-- AI / LLM APIs (OpenAI, Google AI)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Third Party APIs](https://img.shields.io/badge/Third_Party_APIs-0A66C2?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-7B3FE4?style=for-the-badge)
 
 ---
 
@@ -53,7 +51,7 @@ Full Stack Developer with years of professional experience building, shipping, a
 
 ---
 
-## 🧩 Selected Production Projects
+## 🧩 Projects
 
 ## [EZ AI Content](https://ezaicontent.com/)
 
@@ -90,12 +88,5 @@ High-traffic collaborative app with shared queues and synchronized playback
 AI-powered SaaS for document summarization and conversational Q&A
 **Tech:** Next.js, React, TypeScript, Supabase (PostgreSQL), OpenAI, Vector embeddings, AWS, Stripe
 **Focus:** AI-powered workflows, document processing pipelines, embeddings & semantic search, SaaS architecture, authentication & payments
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiarrdgr8&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiarrdgr8&layout=compact&theme=dark)
 
 ---
