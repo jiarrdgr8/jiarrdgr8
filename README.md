@@ -74,7 +74,7 @@ AI-powered SaaS for generating social media images and videos
 ## [GG Republic](https://ggrepublic.com/)
 
 Comprehensive Dota 2 platform aggregating news, matches, tournaments, live streams, and trivia  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, RapidAPI, AWS S3
+**Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, RapidAPI, AWS S3  
 **Focus:** Data aggregation, full-stack architecture, performance optimization, SEO, scalable content delivery
 
 ## [Qwizard](https://qwizard.net/)
@@ -98,7 +98,7 @@ High-traffic collaborative app with shared queues and synchronized playback
 ## [Docu Whisperer](https://www.docuwhisperer.com/)
 
 AI-powered SaaS for document summarization and conversational Q&A  
-**Tech:** Next.js, React, TypeScript, Supabase (PostgreSQL), OpenAI, Vector embeddings, AWS, Stripe
+**Tech:** Next.js, React, TypeScript, Supabase (PostgreSQL), OpenAI, Vector embeddings, AWS, Stripe  
 **Focus:** AI-powered workflows, document processing pipelines, embeddings & semantic search, SaaS architecture, authentication & payments
 
 ---
