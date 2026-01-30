@@ -1,10 +1,10 @@
 # Hi, I'm Jay-ar Gargaran 👋
 
-Full Stack Developer with years of professional experience building, shipping, and maintaining production web applications. Currently working remotely with an international agency, delivering end-to-end solutions across frontend, backend, integrations, deployment, and long-term maintenance.
+Full Stack Developer with years of professional experience building, shipping, and maintaining production web applications. Working full-time as a developer while actively building personal side projects to explore new technologies, sharpen problem-solving skills, and continuously improve.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Stacks
 
 ### Frontend
 
@@ -73,7 +73,7 @@ AI-powered SaaS for generating social media images and videos
 
 ## [GG Republic](https://ggrepublic.com/)
 
-Comprehensive Dota 2 platform aggregating news, matches, tournaments, live streams, and trivia
+Comprehensive Dota 2 platform aggregating news, matches, tournaments, live streams, and trivia  
 **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB, RapidAPI, AWS S3
 **Focus:** Data aggregation, full-stack architecture, performance optimization, SEO, scalable content delivery
 
@@ -97,7 +97,7 @@ High-traffic collaborative app with shared queues and synchronized playback
 
 ## [Docu Whisperer](https://www.docuwhisperer.com/)
 
-AI-powered SaaS for document summarization and conversational Q&A
+AI-powered SaaS for document summarization and conversational Q&A  
 **Tech:** Next.js, React, TypeScript, Supabase (PostgreSQL), OpenAI, Vector embeddings, AWS, Stripe
 **Focus:** AI-powered workflows, document processing pipelines, embeddings & semantic search, SaaS architecture, authentication & payments
 
